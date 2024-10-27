@@ -1,0 +1,7 @@
+C:\Users\slobo\source\repos\DateTimee\DateTimee\bin\Debug\DateTimee.exe.config
+C:\Users\slobo\source\repos\DateTimee\DateTimee\bin\Debug\DateTimee.exe
+C:\Users\slobo\source\repos\DateTimee\DateTimee\bin\Debug\DateTimee.pdb
+C:\Users\slobo\source\repos\DateTimee\DateTimee\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\slobo\source\repos\DateTimee\DateTimee\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\slobo\source\repos\DateTimee\DateTimee\obj\Debug\DateTimee.exe
+C:\Users\slobo\source\repos\DateTimee\DateTimee\obj\Debug\DateTimee.pdb
